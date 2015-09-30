@@ -56,6 +56,9 @@
   XF86AudioPrev
 "playerctl stop"
   XF86AudioStop
+
+#"xscreensaver-command -lock"
+#  Control+alt+l
 #"xterm -geom 50x20+20+20"
 #   Shift+Mod2+alt + s
 #
